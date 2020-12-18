@@ -1,0 +1,12 @@
+{
+  "name": "document-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "config",
+    "meta tag"
+  ],
+  "author": "axtk",
+  "license": "ISC"
+}
